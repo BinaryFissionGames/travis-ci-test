@@ -1,0 +1,19 @@
+{
+  "name": "travis-ci-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denu8thell/travis-ci-test.git"
+  },
+  "author": "BinaryFissionGames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denu8thell/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/Denu8thell/travis-ci-test#readme"
+}
